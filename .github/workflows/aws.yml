@@ -10,7 +10,7 @@
 
 #
 
-name: 编译OpenWrt固件
+name: 编译OpenWrt ams固件
 
 on:
 
